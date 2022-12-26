@@ -8,3 +8,4 @@ gradio
 streamlit
 tensorboard
 accelerate
+spotify_dl
